@@ -27,7 +27,7 @@ README
    Image size can be changed with:
       variable size (Can be changed to what ever is needed - only interger reqired)
 
-   Hope this makes sense.
+   This script shoud make sense now.
 
    Happy coding,
    Dan!
