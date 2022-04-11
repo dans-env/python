@@ -46,4 +46,5 @@ for image in os.listdir(original_path):
       process_image();
    else:
       print(f'Cannot identify image file: {image} - file not supported.');
+
 print(f'Image run complete!');
